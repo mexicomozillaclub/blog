@@ -38,7 +38,7 @@ Entramos a ser parte de esta iniciativa con Mozilla Club y Srita. Confeti en 201
 La primer actividad que desarrollamos en conjunto fue “Empoderamiento por medio de Alfabetización Digital Dirigido a comunidades de mujeres indígenas En alianza con CONAVIM, ILSB, Wayra Y Presidencia de la República.” en noviembre 2016.
 
 ![](https://cdn-images-1.medium.com/max/800/1*YfcVQnP998mPlpWX5QZTbA.jpeg)![](https://cdn-images-1.medium.com/max/800/1*YS_fbksjIA3Ng7KSTHSUVg.jpeg)![](https://cdn-images-1.medium.com/max/800/1*Ma_dM5tbblTMi-JuQMTVLA.jpeg)
-Aliados de Sin Violencia: Emprender para Aprender México, CANIETI, México Mozilla Club ,Aprendemx, Wayra México, Instituto De Liderazgo Simone de Beauvoir y CONAVIM.
+Aliados de Sin Violencia: Emprender para Aprender México, CANIETI, México Mozilla Club, Aprendemx, Wayra México, Instituto De Liderazgo Simone de Beauvoir y CONAVIM.
 
 
 Ese fue el inicio de una serie de actividades para trabajar en conjunto por la inclusión de más mujeres y niñas dentro de la tecnología.
