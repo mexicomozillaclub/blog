@@ -6,7 +6,7 @@ categories: observatorio
 ---
 
 ![](https://cdn-images-1.medium.com/max/1600/1*5og8D-uA5hu3qrF8q8CpWw.png)
-[https://elidron.github.io/womenobservatory/](https://elidron.github.io/womenobservatory/)
+[https://elidron.github.io/womenobservatory/]<span class="caption text-muted">https://elidron.github.io/womenobservatory/</span>
 
 Cuando mencionas alguna frase con el enunciado “cultura de la legalidad”, las personas instantáneamente piensan que es un término vago o difuso, pero que va enfocado a leyes: lo que es legal y no.
 
